@@ -1,0 +1,136 @@
+
+    .foto {
+        position: absolute;
+        top: 650px;
+        left: 50px;
+        background-color: rgba(0,0,0,.7);
+        margin-bottom: 20px;
+        border-radius: 4px;
+        height: 37px;
+        width: 700px;
+        border: 1px solid #000;
+        }
+
+        .foto input{
+            margin-top: 2.5px;
+            margin-left: 2.5px;
+            width: 700px;
+            color: #000;
+            font-family: sans-serif;
+            font-size: 16px;
+        }
+
+    .botao input{
+        position: absolute;
+        top: 1050px;
+        left: 50px;
+        background-color: rgba(0,0,0,.7);
+        color: #000;
+        font-family: sans-serif;
+        font-size: 16px;
+        margin-bottom: 20px;
+        border-radius: 4px;
+        height: 37px;
+        text-align: center;
+        width: 200px;
+        border: 1px solid #000;
+    }
+
+    .local10{
+        position: absolute;
+        top: 715px;
+        left: 55px;
+    }
+    
+    .local10 label{
+        padding: 10px 0;
+        font-size: 17px;
+        color: #fff;
+    }
+
+    .foto2 {
+        position: absolute;
+        top: 750px;
+        left: 50px;
+        background-color: rgba(0,0,0,.7);
+        margin-bottom: 20px;
+        border-radius: 4px;
+        height: 37px;
+        width: 700px;
+        border: 1px solid #fff;
+        }
+
+        .foto2 input{
+            margin-top: 2.5px;
+            margin-left: 2.5px;
+            width: 700px;
+            color: #fff;
+            font-family: sans-serif;
+            font-size: 16px;
+        }
+
+        .local11{
+            position: absolute;
+            top: 815px;
+            left: 55px;
+        }
+        
+        .local11 label{
+            padding: 10px 0;
+            font-size: 17px;
+            color: #fff;
+        }
+    
+        .foto3 {
+            position: absolute;
+            top: 850px;
+            left: 50px;
+            background-color: rgba(0,0,0,.7);
+            margin-bottom: 20px;
+            border-radius: 4px;
+            height: 37px;
+            width: 700px;
+            border: 1px solid #fff;
+            }
+    
+            .foto3 input{
+                margin-top: 2.5px;
+                margin-left: 2.5px;
+                width: 700px;
+                color: #fff;
+                font-family: sans-serif;
+                font-size: 16px;
+            }
+
+            .local12{
+                position: absolute;
+                top: 915px;
+                left: 55px;
+            }
+            
+            .local12 label{
+                padding: 10px 0;
+                font-size: 17px;
+                color: #fff;
+            }
+        
+            .foto4 {
+                position: absolute;
+                top: 950px;
+                left: 50px;
+                background-color: rgba(0,0,0,.7);
+                margin-bottom: 20px;
+                border-radius: 4px;
+                height: 37px;
+                width: 700px;
+                border: 1px solid #fff;
+                }
+        
+                .foto4 input{
+                    margin-top: 2.5px;
+                    margin-left: 2.5px;
+                    width: 700px;
+                    color: #fff;
+                    font-family: sans-serif;
+                    font-size: 16px;
+                }

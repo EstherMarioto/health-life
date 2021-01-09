@@ -1,0 +1,38 @@
+
+.btnn{
+    width: 200px;
+    height: 60px;
+    background: none;
+    border: 4px solid;
+    color: #00bfa5;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 16px;
+    position: relative;
+}
+.btnn::before,.btnn::after{
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 4px;
+    background: #a7ffeb;
+    transform: skewX(50deg);
+    transition: .4s linear;
+}
+
+.btnn::before{
+    top: -4px;
+    left: 10%;
+}
+.btnn::after{
+    bottom: -4px;
+    right: 10%;
+}
+.btnn:hover::before{
+    left: 80%;
+    
+}
+.btnn:hover::after{
+    right: 80%;
+}
